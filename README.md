@@ -26,3 +26,6 @@
 ### Add a new contract
 
 `npx blueprint create ContractName` or `yarn blueprint create ContractName`
+
+#### Reach me at my Email bharat8717sharma@gmail.com for any improvements.
+
