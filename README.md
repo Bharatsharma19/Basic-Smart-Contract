@@ -1,4 +1,7 @@
-### Wallet Address - (EQCY_2rmddLcU7X0r-P4fCYvfgJFTg_4O3zl_7O3Eexo5crx)
+# Wallet Address 
+```dict
+EQCY_2rmddLcU7X0r-P4fCYvfgJFTg_4O3zl_7O3Eexo5crx
+```
 
 # Smart Contract
 
